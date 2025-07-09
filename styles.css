@@ -78,3 +78,13 @@ footer {
 .social-icons img.icon:hover {
     transform: scale(1.2);
 }
+
+.counter {
+    margin-top: 1rem;
+    font-size: 0.85rem;
+    color: #aaa;
+}
+.counter img {
+    margin-left: 8px;
+    vertical-align: middle;
+}
