@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pukker87.github.io/pukker.trade/sitemap.xml
